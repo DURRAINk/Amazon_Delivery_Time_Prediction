@@ -3,10 +3,12 @@ numpy
 scikit-learn
 xgboost
 streamlit
-mlflow
-matplotlib
-seaborn
-ydata-profiling
-python-dotenv
-datetime
-geopy
+
+# requuired only for the notebook
+# mlflow
+# matplotlib
+# seaborn
+# ydata-profiling
+# python-dotenv
+# datetime
+# geopy
