@@ -4,7 +4,7 @@ scikit-learn
 xgboost
 streamlit
 
-# requuired only for the notebook
+# required only for the notebook
 # mlflow
 # matplotlib
 # seaborn
