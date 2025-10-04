@@ -2,6 +2,9 @@
 
 This project predicts delivery time for Amazon orders based on real-world factors like distance, traffic, weather, and product category. It uses a regression model trained on historical delivery data and is deployed via Streamlit for interactive use.
 
+## Checkout the Streamlit App
+https://amazon-delivery-time-prediction-dk.streamlit.app/
+
 ---
 
 ## 📦 Features
